@@ -4,7 +4,7 @@ This is an offical implementation of PatchTST: "A Time Series is Worth 64 Words:
 
 **Updates**: 
 
-Nov 29th: update a few instructions and include other baseline models in supervised learning for comparison.
+Nov 29th: update few instructions and include other baseline models in supervised learning for comparison.
 
 Nov 16th: initial repo created.
 
