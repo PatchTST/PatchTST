@@ -1,8 +1,10 @@
 # PatchTST
 
-This is an offical implementation of PatchTST: "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers."
+PatchTST: "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers." (official repo: https://github.com/yuqinie98/PatchTST)
 
 **Updates**: 
+
+2023-01: Our paper was accepted to ICLR 2023! The new official repo is: https://github.com/yuqinie98/PatchTST.
 
 Nov 29th: update few instructions and include other baseline models in supervised learning for comparison.
 
